@@ -37,15 +37,15 @@ Coitado... Mal sabia ele o que estava escrito em seu código.
 ## 🖼️ Imagem
 
 ``` markdown
-![Ouro que vou ganhar no futuro](imagens/ouro.jpg)
+![Ouro que vou ganhar no futuro](Imagens/ouro.jpg)
 ```
 
 ------------------------------------------------------------------------
 
 ## 💡 Alerta
 
-> \[!NOTE\] **Negrito** foi considerado o maior programador da história.
-> 😄
+> [!NOTE\] **Negrito** foi considerado o maior programador da história.
+>  😄
 
 ------------------------------------------------------------------------
 
