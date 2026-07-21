@@ -36,9 +36,9 @@ Coitado... Mal sabia ele o que estava escrito em seu código.
 
 ## 🖼️ Imagem
 
-``` markdown
-![Ouro que vou ganhar no futuro](Imagens/ouro.jpg)
-```
+ 
+![Ouro que vou ganhar no futuro](../Imagens/ouro.jpg)
+
 
 ------------------------------------------------------------------------
 
