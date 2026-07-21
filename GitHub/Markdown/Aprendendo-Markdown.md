@@ -12,7 +12,7 @@ mental, facilitando a lembrança da sintaxe. 🧠✨
 Criei títulos do **maior (`#`) ao menor (`##`)**.
 
 O **Grande Homem**, escrito em **negrito**, foi
-`<ins>`{=html}sublinhado`</ins>`{=html} e depois ~~tachado~~.
+<ins>sublinhado</ins> e depois ~~tachado~~.
 
 ``` text
 Coitado... Mal sabia ele o que estava escrito em seu código.
@@ -22,7 +22,7 @@ Coitado... Mal sabia ele o que estava escrito em seu código.
 
 ## ✅ Checklist
 
--   [ ] 🎯 Foco
+-   [x] 🎯 Foco
 -   [ ] 🚀 Abertura
 
 ------------------------------------------------------------------------
@@ -44,9 +44,10 @@ Coitado... Mal sabia ele o que estava escrito em seu código.
 
 ## 💡 Alerta
 
-> [!NOTE ] **Negrito** foi considerado o maior programador da história.
->  😄
-
+> [!NOTE]
+> **Negrito** foi considerado o maior programador da história.
+> 😄
+> 
 ------------------------------------------------------------------------
 
 ## 🎉 Recursos utilizados
@@ -57,13 +58,11 @@ Coitado... Mal sabia ele o que estava escrito em seu código.
 
 -   **🅱️ Negrito**
 
--   ```{=html}
+
     <ins>
-    ```
     📏 Sublinhado
-    ```{=html}
     </ins>
-    ```
+    
 
 -   ~~❌ Tachado~~
 
