@@ -44,7 +44,7 @@ Coitado... Mal sabia ele o que estava escrito em seu código.
 
 ## 💡 Alerta
 
-> [!NOTE\] **Negrito** foi considerado o maior programador da história.
+> [!NOTE ] **Negrito** foi considerado o maior programador da história.
 >  😄
 
 ------------------------------------------------------------------------
